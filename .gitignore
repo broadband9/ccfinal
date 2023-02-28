@@ -1,0 +1,14 @@
+# Client
+#
+client/node_modules/
+
+
+# Server
+#
+server/node_modules/
+
+# Resources
+#
+other
+
+.vscode
